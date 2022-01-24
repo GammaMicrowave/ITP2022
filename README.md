@@ -4,7 +4,7 @@
 |   Enrollment No.  |   Name   | GithubId |
 |   --------------  |   ----   | -------- |
 |    IIT2019001  |   Pranav Tiwari | PranavTiwari14 |
-|    IIT2019002  |   Sreevardhan |  | 
+|    IIT2019002  |   Sreevardhan | sreevardhan0 | 
 |    IIT2019003  |   Mohd Kaif |   |
 |    IIT2019003  |   Shriyansh Lohiya |   |
 
