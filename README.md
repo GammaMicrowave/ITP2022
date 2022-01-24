@@ -25,11 +25,11 @@ In order to store the values of the matrix we would make use of a 2-Dimensionnal
 
 ```
 #Download project
-git clone https://github.com/merazlab/daa 
+git clone https://github.com/PranavTiwari14/ITP2022
 ```
 Project Initialize 
 ```
-cd daa
+cd ITP2022
 #create assignment-1 folder
 mkdir assignment_01
 
@@ -38,19 +38,16 @@ cd assignment_01
 
 #Create file
 touch readme.md
-touch main.py
+touch main.c
 .
 .
 ```
 ---
 
-Run the code
+Compile and run the code
 ```
-python main.py
-```
-Output
-```
-Curve fitting using Least squares Approximation
+gcc main.c
+a.exe
 ```
 ---
 
@@ -87,8 +84,10 @@ Transposed matrix is:
 3 6 9
 
 The value of the 3x3 Determinant is : 0 
+```
 
-#--------------------------#
+--------------------------
+```
 Test Case-2
 Input:
 2 2
