@@ -5,8 +5,8 @@
 |   --------------  |   ----   | -------- |
 |    IIT2019001  |   Pranav Tiwari | PranavTiwari14 |
 |    IIT2019002  |   Sreevardhan | sreevardhan0 | 
-|    IIT2019003  |   Mohd Kaif |   |
-|    IIT2019003  |   Shriyansh Lohiya |   |
+|    IIT2019003  |   Mohd Kaif |  iec2021046 |
+|    IIT2019003  |   Shriyansh Lohiya |  LohiyaShriyansh |
 
 **Group No-**"11"
 
