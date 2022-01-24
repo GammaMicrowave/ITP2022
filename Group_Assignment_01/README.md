@@ -3,12 +3,12 @@
 **Team Members**
 |   Enrollment No.  |   Name   | GithubId |
 |   --------------  |   ----   | -------- |
-|    IIT2019001  |   Pranav Tiwari | PranavTiwari14 |
-|    IIT2019002  |   Sreevardhan | sreevardhan0 | 
-|    IIT2019003  |   Mohd Kaif |  iec2021046 |
-|    IIT2019003  |   Shriyansh Lohiya |  LohiyaShriyansh |
+|    IEC2021048 |   Pranav Tiwari | PranavTiwari14 |
+|    IEC2021049  |   Sreevardhan | sreevardhan0 | 
+|    IEC2021046  |   Mohd Kaif |  iec2021046 |
+|    IEC2021047  |   Shriyansh Lohiya |  LohiyaShriyansh |
 
-**Group No-**"11"
+**Group No-**"12"
 
 **Faculty Name-**"Mohammed Javed Sir"
 
