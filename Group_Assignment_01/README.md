@@ -198,7 +198,7 @@ In this C program to find the Transpose and Determinant of the given matrix, Fir
     {
         printf("Enter the number of Rows of the Matrix row \n");
         scanf("%d", &Matrix_Rows);
-    } while (Matrix_Rows < 1 && Matrix_Rows > 100);
+    } while (Matrix_Rows < 1 || Matrix_Rows > 100);
 
     // Code to Assign the number of Columns in the matrix.
 
@@ -206,7 +206,7 @@ In this C program to find the Transpose and Determinant of the given matrix, Fir
     {
         printf("Enter the number of Columns of the Matrix\n");
         scanf("%d", &Matrix_Columns);
-     } while (Matrix_Columns < 1 && Matrix_Columns > 100);
+     } while (Matrix_Columns < 1 || Matrix_Columns > 100);
 ```
 After getting the values of rows and columns we took use of Nesting in For loop (V) and asked for user to input values for a matrix of size m*n where m is the number of rows and n is the number of columns in the given matrix.
 ```
