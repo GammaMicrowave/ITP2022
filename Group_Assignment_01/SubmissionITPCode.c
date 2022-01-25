@@ -8,14 +8,14 @@ int main()
     {
         printf("Enter the number of Rows of the Matrix\n");
         scanf("%d", &Matrix_Rows);
-    } while (Matrix_Rows<1 && Matrix_Rows > 100);
+    } while (Matrix_Rows<1 || Matrix_Rows > 100);
     //Code to Assign the number of Columns in the matrix.
     do
     {
 
         printf("Enter the number of Columns of the Matrix\n");
         scanf("%d", &Matrix_Columns);
-    } while (Matrix_Columns < 1 && Matrix_Columns > 100);
+    } while (Matrix_Columns < 1 || Matrix_Columns > 100);
 
     //Intializing the 2D array to store the values in the matrix.
     int Matrix[100][100];
