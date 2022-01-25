@@ -31,11 +31,9 @@ Project Initialize
 ```
 cd ITP2022
 
-#go to assignment-1
+#go to Group_Assignment_01
 cd Group_Assignment_01
 
-.
-.
 ```
 ---
 
