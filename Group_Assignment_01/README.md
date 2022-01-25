@@ -30,15 +30,10 @@ git clone https://github.com/PranavTiwari14/ITP2022
 Project Initialize 
 ```
 cd ITP2022
-#create assignment-1 folder
-mkdir assignment_01
 
 #go to assignment-1
-cd assignment_01
+cd Group_Assignment_01
 
-#Create file
-touch readme.md
-touch main.c
 .
 .
 ```
@@ -46,7 +41,7 @@ touch main.c
 
 Compile and run the code
 ```
-gcc main.c
+gcc SubmissionITPCode.c
 a.exe
 ```
 ---
